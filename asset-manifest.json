@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PSN123/TestTodo/static/css/main.5799a174.chunk.css",
+    "main.js": "/PSN123/TestTodo/static/js/main.98a3582b.chunk.js",
+    "main.js.map": "/PSN123/TestTodo/static/js/main.98a3582b.chunk.js.map",
+    "runtime-main.js": "/PSN123/TestTodo/static/js/runtime-main.de976ffb.js",
+    "runtime-main.js.map": "/PSN123/TestTodo/static/js/runtime-main.de976ffb.js.map",
+    "static/js/2.fcf127c1.chunk.js": "/PSN123/TestTodo/static/js/2.fcf127c1.chunk.js",
+    "static/js/2.fcf127c1.chunk.js.map": "/PSN123/TestTodo/static/js/2.fcf127c1.chunk.js.map",
+    "static/js/3.01091ea6.chunk.js": "/PSN123/TestTodo/static/js/3.01091ea6.chunk.js",
+    "static/js/3.01091ea6.chunk.js.map": "/PSN123/TestTodo/static/js/3.01091ea6.chunk.js.map",
+    "index.html": "/PSN123/TestTodo/index.html",
+    "static/css/main.5799a174.chunk.css.map": "/PSN123/TestTodo/static/css/main.5799a174.chunk.css.map",
+    "static/js/2.fcf127c1.chunk.js.LICENSE.txt": "/PSN123/TestTodo/static/js/2.fcf127c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de976ffb.js",
+    "static/js/2.fcf127c1.chunk.js",
+    "static/css/main.5799a174.chunk.css",
+    "static/js/main.98a3582b.chunk.js"
+  ]
+}
